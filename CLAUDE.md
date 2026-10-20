@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Static academic personal homepage for Chengru Wu (吴承儒), styled after Jon Barron's website. Pure HTML/CSS — no build step, no framework. Hosted on GitHub Pages at `Roy-GY.github.io`.
+Static academic personal homepage for Chengru Wu (吴承儒), styled after Jon Barron's website. Pure HTML/CSS — no build step, no framework. Hosted on GitHub Pages at `ChengruWu.github.io`.
 
 ## File Structure
 
